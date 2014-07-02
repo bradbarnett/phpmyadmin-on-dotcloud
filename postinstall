@@ -1,7 +1,7 @@
 #!/bin/sh
 
 name="phpMyAdmin"
-url="url="http://downloads.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.8/phpMyAdmin-4.0.8-all-languages.tar.bz2?r=&ts=1381943041&use_mirror=softlayer-dal"
+url="http://downloads.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.8/phpMyAdmin-4.0.8-all-languages.tar.bz2?r=&ts=1381943041&use_mirror=softlayer-dal"
 
 install_dir=~/data/pma/
 
